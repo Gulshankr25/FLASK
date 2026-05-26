@@ -1,0 +1,15 @@
+1. want to show messeges on same page as a pop-up.
+
+2. after adding same employee data it show error in another page.
+that it is a duplicate entry but, i want to show that employee alredy 
+exist.
+
+3. how to add loading sign when move to another page.
+
+4. don't accept empty data make it required
+5. when i add, update, delete any data i want a next page of
+confirmation that you want to do this change yes/no.
+
+6. when i delete data successfully after that data is still showing same in 
+same values in input box and after udpating same data it shows updated 
+successfully but data is delete when i clicked delete button 
